@@ -13,3 +13,4 @@ for i in meu_arrayzinho:
 for chave, valor in meu_dicionario.items(): 
     if chave == valor: 
         print('numero sortudo é {}'.format(chave))
+sasd
